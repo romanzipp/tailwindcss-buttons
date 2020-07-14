@@ -1,0 +1,15 @@
+{
+    "name": "tailwindcss-styles",
+    "version": "0.0.1",
+    "description": "Some curated TailwindCSS styles.",
+    "main": "src/index.js",
+    "repository": "https://github.com/romanzipp/tailwindcss-styles",
+    "license": "MIT",
+    "scripts": {},
+    "peerDependencies": {
+        "tailwindcss": "^1.0"
+    },
+    "devDependencies": {
+        "tailwindcss": "^1.4.6"
+    }
+}
